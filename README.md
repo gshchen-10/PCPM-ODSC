@@ -1,2 +1,2 @@
 # PCPM-ODSC
-source code of the paper: Guisheng Chen, Zhanshan Li. An Efficient Algorithm for Periodic Cluster Pattern Mining
+source code will be available after the paper is accepted
